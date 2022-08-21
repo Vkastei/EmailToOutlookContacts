@@ -8,8 +8,8 @@
 
 namespace fs = std::filesystem;
 const std::string WHITESPACE = " \n\r\t\f\v";
-std::string Target = "vincejosh.vj@gmail.com";
-std::string EmailFrom = "vincejosh.vj@gmail.com";
+std::string Target = "TARGET";
+std::string EmailFrom = "EMAILFROM";
 std::string Subject = "SUBJECT";
 std::string Body = "BODY";
 std::string Email = "EMAIL";
